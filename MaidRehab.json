@@ -4,5 +4,16 @@
   "artist": "Choi Tae-young",
   "author": "Cutetype",
   "cover": "https://i.imgur.com/LK6TEcy.png",
-  "chapters": {}
+  "chapters": {
+    "2": {
+      "title": "Chapter 2",
+      "volume": "",
+      "last_updated": "1680346800",
+      "groups": {
+        "Leons": [
+          "https://imgur.com/a/cQw4RUx"
+        ]
+      }
+    }
+  }
 }
