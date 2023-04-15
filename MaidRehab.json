@@ -30,6 +30,24 @@
           ""
         ]
       }
+    },
+    "3": {
+      "title": "Chapter 3",
+      "volume": "",
+      "last_updated": "1681561872",
+      "groups": {
+        "Leons": [
+          "https://i.imgur.com/RJBdoqO.jpg",
+          "https://i.imgur.com/ifL5u2D.jpg",
+          "https://i.imgur.com/Bg4gI65.jpg",
+          "https://i.imgur.com/FLQVJUr.jpg",
+          "https://i.imgur.com/7Qlm3K8.jpg",
+          "https://i.imgur.com/lrCH3Kg.jpg",
+          "https://i.imgur.com/vwhqQVa.jpg",
+          "https://i.imgur.com/LrGdSdw.jpg",
+          "https://i.imgur.com/2Nligg5.jpg"
+        ]
+      }
     }
   }
 }
