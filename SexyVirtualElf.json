@@ -1,8 +1,23 @@
 {
   "title": "Sexy Virtual Elf",
-  "description": "Minhyuk, who used to be an athlete, breaks his leg in an accident and faces difficulties in his relationship with his girlfriend Eunjin. In response, his friend Yoonchan recommends a VR game he developed, and within this game he experiences new stimulation in a fantasy world that transcends reality…",
+  "description": "Minhyuk, who used to be an athlete, breaks his leg in an accident and faces difficulties in his relationship with his girlfriend Eunjin. In response, his friend Yoon Chan recommends a VR game he developed. Within this game he experiences new stimulation in a fantasy world that transcends reality…",
   "artist": "Boss Raccoon",
   "author": "Boss Raccoon",
   "cover": "https://cdn.imgchest.com/files/l7lxcwpavv7.png",
-  "chapters": {}
+  "chapters": {
+    "1": {
+      "title": "Chapter 1",
+      "volume": "",
+      "last_updated": "1700413037",
+      "groups": {
+        "": [
+          "https://i.imgur.com/HlMm0VM.jpg",
+          "https://i.imgur.com/dNteSkF.jpg",
+          "https://i.imgur.com/q8yvhnR.jpg",
+          "https://i.imgur.com/WFdUYgL.jpg",
+          "https://i.imgur.com/2PaEXfO.jpg"
+        ]
+      }
+    }
+  }
 }
